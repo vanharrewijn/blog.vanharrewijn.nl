@@ -1,3 +1,3 @@
 # githubtest
 
-playing around with git
+Playing around with git
